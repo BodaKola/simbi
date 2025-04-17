@@ -14,7 +14,7 @@ const SimbiTopics = {
     stigma: "Seeking help is not madness — it’s strength. You deserve support without shame.",
     access: "Even if formal services are limited, support can still exist. You’re not alone.",
     religion: "Faith and therapy can co-exist. Seeking psychological help is courage, not betrayal.",
-    default: "Simbi is here for you. You’re not alone. Tell me how you are feeling. I’m here to support you without judgment."
+    default: "BraveHeart AI is here for you. You’re not alone. Tell me how you are feeling. I’m here to support you without judgment."
   },
   yoruba: {
     unemployment: "Ó nira gan-an... O ti n dojú kọ́ ogun aláìlárin pẹ́. Mi ò ní fi ẹ̀ sílẹ̀.",
