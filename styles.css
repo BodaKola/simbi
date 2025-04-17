@@ -156,9 +156,11 @@ footer {
   display: flex;
   flex-direction: column;
   font-family: Poppins, sans-serif;
+  display: none;
 }
 .hidden {
-  display: none;
+  translate: translateX(-400%);
+
 }
 .chat-header {
   background: #3f51b5;
@@ -172,6 +174,13 @@ footer {
 
 .chat-header h4{
   font-weight: 400;
+}
+
+#close-chat {
+  background: re;
+  border: none;
+  color: white;
+  cursor: pointer;
 }
 .chat-box {
   padding: 0.5rem;
@@ -188,3 +197,118 @@ footer {
   width: calc(100% - 60px);
   font-family: Poppins, sans-serif;
 }
+
+/* Responsive styles */
+
+/* For tablets and smaller screens */
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  nav a, nav button {
+    font-size: 0.8rem;
+    margin: 0.5rem 0;
+  }
+
+  .hero-section {
+    height: auto;
+    padding: 1rem;
+  }
+
+  .hero h1 {
+    font-size: 3rem;
+    line-height: 1.2;
+  }
+
+  .hero p {
+    font-size: 0.8rem;
+    width: 100%;
+  }
+
+  .hero-content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .hero-image {
+    width: 100%;
+    text-align: center;
+  }
+
+  .hero-image img {
+    width: 80%;
+  }
+
+  .features {
+    width: 100%;
+    padding: 3rem 1rem;
+  }
+
+  .features .feature-list {
+    grid-template-columns: 1fr; /* Single column */
+  }
+
+  #chat-icon {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  #chat-widget {
+    width: 90%;
+  }
+}
+
+/* For mobile screens */
+@media (max-width: 480px) {
+  header {
+    padding: 0.5rem;
+  }
+
+  nav{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+  }
+
+  nav a, nav button {
+    font-size: 0.7rem;
+  }
+
+  .hero h1 {
+    font-size: 2rem;
+  }
+
+  .hero p {
+    font-size: 0.7rem;
+  }
+
+  .features h2 {
+    font-size: 2rem;
+  }
+
+  .feature-list div {
+    padding: 1rem;
+  }
+
+  #chat-icon {
+    bottom: 10px;
+    right: 20px;
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  #chat-widget {
+    bottom: 60px;
+    right: 10px;
+    width: 95%;
+  }
+  .chat-header {
+    padding: 0.5rem;
+  }
+
+}
+

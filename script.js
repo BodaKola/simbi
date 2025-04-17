@@ -1,4 +1,5 @@
-
+window.addEventListener("load", () => {
+  
 let selectedLang = 'english';
 
 const SimbiTopics = {
@@ -13,7 +14,7 @@ const SimbiTopics = {
     stigma: "Seeking help is not madness — it’s strength. You deserve support without shame.",
     access: "Even if formal services are limited, support can still exist. You’re not alone.",
     religion: "Faith and therapy can co-exist. Seeking psychological help is courage, not betrayal.",
-    default: "Thank you for sharing that. You’re not alone. I’m here to support you without judgment."
+    default: "Simbi is here for you. You’re not alone. Tell me how you are feeling. I’m here to support you without judgment."
   },
   yoruba: {
     unemployment: "Ó nira gan-an... O ti n dojú kọ́ ogun aláìlárin pẹ́. Mi ò ní fi ẹ̀ sílẹ̀.",
@@ -53,13 +54,15 @@ function sendMessage() {
 }
 
 document.getElementById("chat-icon").onclick = () =>
-  document.getElementById("chat-widget").classList.remove("hidden");
-document.getElementById("open-chat-btn").onclick = () =>
-  document.getElementById("chat-widget").classList.remove("hidden");
+  document.getElementById("chat-widget").style.display = "flex";
+// document.getElementById("open-chat-btn").onclick = () =>
+//   document.getElementById("chat-widget").style.display = "flex";
 document.getElementById("open-chat-hero").onclick = () =>
-  document.getElementById("chat-widget").classList.remove("hidden");
-document.getElementById("close-chat").onclick = () =>
-  document.getElementById("chat-widget").classList.add("hidden");
+  document.getElementById("chat-widget").style.display = "flex";
+document.querySelector(".close").onclick = () =>
+  document.getElementById("chat-widget").style.display = "none";
 document.getElementById("language-select").onchange = (e) => {
   selectedLang = e.target.value;
 };
+
+});
