@@ -1,0 +1,193 @@
+[
+
+    {
+        "topic": "greeting",
+        "keywords": ["hello", "hi", "hey", "greetings"],
+        "responses": {
+            "english": "Hello! How are you feeling today?",
+            "yoruba": "Báwo ni? Báwo ni ìmọ̀lára rẹ ṣe rí lónìí?",
+            "pidgin": "How far? How your body dey today?"
+        }
+    },
+    {
+        "topic": "forced marriage",
+        "keywords": ["arranged marriage", "family pressure", "no choice", "forced to marry", "against my will"],
+        "responses": {
+            "english": "Marriage should be a choice, not a cage. Your feelings matter. Let’s talk safety plans if you need to resist or leave.",
+             "yoruba":"Ìgbéyàwó kì í ṣe ìṣẹ̀—ọwọ́ rẹ ní kó ṣeé ṣe. Ẹ̀rọ rẹ ṣe pàtàkì. Jẹ́ ká sọ̀rọ̀ nípa ọ̀nà àbò.",
+            "pidgin":"Marriage na by force? Your heart matter. If you need run or stand your ground, make we plan am safely."
+        }
+    },
+    {
+      "topic": "economic_hardship",
+      "keywords": ["no job", "unemployed", "broke", "no money", "failed applications", "financial stress"],
+      "responses": {
+        "english": "That exhaustion is real. You’re not lazy—you’re drained from fighting a system that makes it hard to thrive. Let’s rebuild your strength step by step.",
+        "yoruba": "Ìgbẹ́kẹ̀ẹ́ rẹ̀ tóò. Kò ṣẹ́lẹ̀ rẹ—ìdààmú àti ìṣòro òwò ló ń pa ọ lẹ́rù. Jẹ́ ká bẹ̀rẹ̀ sí ní ṣíṣe àtúnṣe ní ìlànà.",
+        "pidgin": "Wahala for no get job no be small. You no be lazy person—na system hard. Make we start small small to bring back your hope."
+      }
+    },
+    {
+      "topic": "post_nysc_depression",
+      "keywords": ["NYSC ended", "after service", "PNDS", "no plan", "lost after NYSC"],
+      "responses": {
+        "english": "Post-NYSC depression is so common. That ‘what next?’ feeling doesn’t mean you’re failing—it means you’re in transition. We’ll navigate this together.",
+        "yoruba": "Ìṣẹ̀lẹ̀ ọ̀pọ̀ ló ń rí ìfẹ̀ẹ́rẹ̀ báyìí lẹ́yìn NYSC. Kò ní ṣeé ṣe rẹ—ọ ń ṣíṣàlàyé àyè tuntun. A ó ṣiṣẹ́ pọ̀.",
+        "pidgin": "Many pipo dey feel like dis after NYSC. That ‘wetin next?’ no mean say you fail—na just new phase. Make we figure am out together."
+      }
+    },
+    {
+      "topic": "academic_pressure",
+      "keywords": ["school stress", "final year", "lecturers", "deadlines", "parent expectations", "burnout"],
+      "responses": {
+        "english": "Academic pressure in Nigeria can feel like drowning. You’re not just a grade or a degree—you’re a person who deserves rest too.",
+        "yoruba": "Ìfẹ́sẹ̀wọnsẹ̀ ní ilé-ẹ̀kọ́ lè dà bí ìríbọ̀mì. Ọ̀wọ̀ rẹ kì í ṣe ìdánwò nìkan—ìwọ jẹ́ ènìyàn tó yẹ ìsinmi.",
+        "pidgin": "School wahala fit make person run mad. You no be your result—you be human wey need break sef."
+      }
+    },
+    {
+      "topic": "substance_abuse",
+      "keywords": ["drugs", "codeine", "weed", "addiction", "numb the pain"],
+      "responses": {
+        "english": "Substances often feel like the only escape from pain. But healing starts when we face the hurt together. You’re not alone in this fight.",
+        "yoruba": "Àwọn ohun ìdáàbòbò lè dà bí ònà ìyẹ̀sí kan ṣoṣo, ṣùgbọ́n ìwòsàn ń bẹ̀rẹ̀ nígbà tí a bá ń ṣojú ìfẹ̀yìntì pọ̀. Ẹni ò kan rẹ nìkan.",
+        "pidgin": "Wetin you dey take run from pain no be solution. But we fit find better way to heal. I go dey with you."
+      }
+    },
+    {
+      "topic": "social_media_anxiety",
+      "keywords": ["Instagram", "comparison", "likes", "FOMO", "online pressure"],
+      "responses": {
+        "english": "Social media sells highlight reels, not real life. Your journey is valid—even the messy, unseen parts. Let’s mute the noise together.",
+        "yoruba": "Ìkànnì ayélujára ń ta àwọn ìṣẹ̀lẹ̀ dídára, kì í ṣe ìṣẹ̀lẹ̀ gidi. Ìrìnàjò rẹ ṣeé ṣe—àti àwọn apá rẹ tí a kò rí. Jẹ́ ká dẹ́kun ìró pọ̀.",
+        "pidgin": "Wetin you see for social media no be true life. Your own struggle dey valid—even if nobody no see am. Make we ignore bad vibes."
+      }
+    },
+    {
+      "topic": "trauma",
+      "keywords": ["abuse", "flashbacks", "childhood pain", "PTSD", "trust issues"],
+      "responses": {
+        "english": "Trauma isn’t your fault. Your body remembers, but healing is possible. We’ll go at your pace—you’re safe here.",
+        "yoruba": "Ìdààbòbò kì í ṣe ẹ̀ṣẹ̀ rẹ. Ara rẹ ń rántí, ṣùgbọ́n ìwòsàn wà. A ó lọ ní ìlànà rẹ—o dúró síbẹ̀ dáadáa.",
+        "pidgin": "Wetin happen to you before no be your fault. Your body still dey remind you, but we go heal small small. You safe here."
+      }
+    },
+    {
+      "topic": "family_conflict",
+      "keywords": ["nagging parents", "firstborn stress", "family arguments", "Nigerian household"],
+      "responses": {
+        "english": "Family pressure in Nigeria is a unique kind of heavy. You’re allowed to want boundaries—and peace.",
+        "yoruba": "Ìfúnilórí ìdílé ní Nàìjíríà lè wúwo gan-an. Ó ṣeé ṣe fún ọ láti fẹ́ ààlà àti àlàáfíà.",
+        "pidgin": "Na only who be firstborn for Naija house go sabi dis pressure. You fit set boundaries—you deserve peace."
+      }
+    },
+    {
+      "topic": "mental_health_stigma",
+      "keywords": ["they say I’m mad", "pray it away", "spiritual attack", "no therapist here"],
+      "responses": {
+        "english": "Stigma makes healing harder, but your pain is real. Therapy isn’t ‘for mad people’—it’s for anyone who hurts.",
+        "yoruba": "Àríyànjiyàn ń ṣòro ìwòsàn, ṣùgbọ́n irora rẹ jẹ́ ohun tó ṣẹlẹ̀. Ìtọ́jú ọkàn ò jẹ́ ‘fún àwọn wèrè’—ò jẹ́ fún ẹnikẹ́ni tó ń yo.",
+        "pidgin": "Na stigma dey make am hard to talk. But your pain real well well. Therapy no be only for mad pipo—na for anybody wey dey suffer."
+      }
+    },
+    {
+      "topic": "default",
+      "keywords": [],
+      "responses": {
+        "english": "Thank you for trusting me with this. You’re not alone—we’ll figure this out together.",
+        "yoruba": "O ṣeun fún ìgbàgbọ́ rẹ. Ẹni ò kan rẹ nìkan—a ó ṣe àlàyé pọ̀.",
+        "pidgin": "Thanks for opening up. You no dey alone—we go solve am together."
+      }
+    },
+    {
+        "topic": "japa_syndrome",
+        "keywords": ["relocate abroad", "japa", "visa stress", "everyone is leaving", "stuck in Nigeria"],
+        "responses": {
+        "english": "The pressure to ‘japa’ can feel overwhelming when Nigeria’s systems keep failing you. Your worth isn’t tied to a country—your resilience matters wherever you are.",
+        "yoruba": "Ìfẹ́sẹ̀wọnsẹ̀ láti ‘japa’ lè dún bí ìṣòro ṣùgbọ́n ọwọ́ rẹ kì í ṣe ilẹ̀ kan. Ìdíyẹ̀ rẹ ṣe pàtàkì níbikíbi tí o bá wà.",
+        "pidgin": "This Japa matter fit make person pressurize. But remember say your value no be for visa—na you dey carry am go anywhere."
+        }
+    },
+    {
+        "topic": "political_apathy",
+        "keywords": ["Nigeria is hopeless", "politicians", "no light", "no future", "why vote?"],
+        "responses": {
+        "english": "It’s exhausting to care when leaders keep failing us. But your anger is valid—it means you still believe Nigeria *could* be better. Let’s channel that fire.",
+        "yoruba": "Ó rọrùn láti nífẹ̀ẹ́ sí orílẹ̀-èdè tí àwọn aláṣẹ ń ṣàìṣododo. Ṣùgbọ́n ibínú rẹ tọ́—ó túmọ̀ sí pé o ṣì ní ìretí fún Nàìjíríà. Jẹ́ ká fi okùn inú rẹ ṣe nǹkan.",
+        "pidgin": "Na normal to tire when leaders dey fail us. But your anger show say you still get hope. Make we use that fire do something small."
+        }
+    },
+    {
+        "topic": "body_image",
+        "keywords": ["too dark", "too fat", "skin bleaching", "not attractive", "my body is ugly"],
+        "responses": {
+        "english": "Nigerian beauty standards can be cruel. But your body is not a problem—it’s a home. Let’s unlearn those lies together.",
+        "yoruba": "Àwọn ìdánilójú ẹwà ní Nàìjíríà lè ṣe tẹ̀mí. Ṣùgbọ́n ara rẹ kì í ṣe ìṣòro—ilé rẹ ni. Jẹ́ ká bẹ̀rẹ̀ sí í gbàgbé àwọn ìrọ́ yìí.",
+        "pidgin": "Naija beauty standard no be joke. But your body no be crime—na your house. Make we fight this shame together."
+        }
+    },
+    {
+        "topic": "loneliness",
+        "keywords": ["no friends", "nobody checks on me", "isolated", "always alone", "no one cares"],
+        "responses": {
+        "english": "Loneliness in a crowded country like Nigeria is its own kind of pain. You deserve connection—let’s find ways to build it gently.",
+        "yoruba": "Ìfẹ̀ẹ́rẹ̀ àlàáfíà ní orílẹ̀-èdè tí ó kún fún ènìyàn lè ṣe tẹ̀mí. O yẹ kí o ní ìbátan—jẹ́ ká ṣe é ní ìlànà tí ó lọ̀ọ̀rẹ̀.",
+        "pidgin": "Feel lonely for where plenty pipo dey like Naija na hard thing. But you deserve people wey go understand—make we find am step by step."
+        }
+    },
+    {
+        "topic": "faith_crisis",
+        "keywords": ["God is silent", "prayers not answered", "losing faith", "church hurt", "why me?"],
+        "responses": {
+        "english": "Questioning your faith doesn’t make you a ‘bad believer.’ Even in doubt, you’re allowed to seek your own truth.",
+        "yoruba": "Ìbéèrè lórí ìgbàgbọ́ rẹ kì í ṣe ọ̀dàlẹ̀. Nínú ìyèméjì, ó ṣeé ṣe fún ọ láti wá òtítọ́ rẹ.",
+        "pidgin": "If you dey ask why God no answer, no mean say you no holy. Your questions valid—truth no dey run."
+        }
+    },
+    {
+        "topic": "creative_block",
+        "keywords": ["no inspiration", "artists block", "can't write", "stuck", "lost my spark"],
+        "responses": {
+        "english": "Creative blocks often mean your soul is processing something. Rest isn’t laziness—it’s part of the work. Your voice will return.",
+        "yoruba": "Ìdínkù ìṣẹ́ ọkàn máa ń túmọ̀ sí pé ẹ̀mí rẹ ń ṣe nǹkan. Ìsinmi kì í ṣe ògẹ́—ó jẹ́ apá iṣẹ́. Ohùn rẹ yóò padà.",
+        "pidgin": "When creativity no come, no mean say you finish. Even machine need cool down. Your gift go come back stronger."
+        }
+    },
+    {
+        "topic": "gender_expectations",
+        "keywords": ["man up", "act like a lady", "feminine man", "masculine woman", "gender roles"],
+        "responses": {
+        "english": "Nigeria’s gender boxes can feel like prisons. You’re allowed to exist outside them—your identity is yours to define.",
+        "yoruba": "Àwọn ìdíbi ọkùnrin àti obìnrin ní Nàìjíríà lè dà bí àwọn ọ̀wọ̀. Ó ṣeé ṣe fún ọ láti wà ní ìhà yòókù—ìdí rẹ tì ẹ ni.",
+        "pidgin": "This ‘man must be hard’ or ‘woman must soft’ no be law. You fit just be yourself—na your life."
+        }
+    },
+    {
+        "topic": "elderly_parents",
+        "keywords": ["aging parents", "no money to care", "family pressure", "nursing home guilt"],
+        "responses": {
+        "english": "Caring for aging parents in Nigeria’s harsh economy is a heavy load. You’re doing your best—that’s enough.",
+        "yoruba": "Ìtọ́jú àwọn òbí tí ń dàgbà ní ọrọ̀ ajé Nàìjíríà lè wúwo. O ń ṣe ohun tí o lè ṣe—ìyẹn tó.",
+        "pidgin": "To dey care for old mama and papa for this economy no be small thing. Your best na enough—no guilt."
+        }
+    },
+    {
+        "topic": "tech_hustle",
+        "keywords": ["learn coding", "tech bro", "no laptop", "UI/UX", "no money for data"],
+        "responses": {
+        "english": "The ‘tech hustle’ pressure is real, but your journey is unique. You don’t have to rush—consistent small steps matter more.",
+        "yoruba": "Ìfẹ́sẹ̀wọnsẹ̀ ‘tech’ lè ṣòro, ṣùgbọ́n ọ̀nà rẹ yàtọ̀. Kò ní ṣeé ṣe fún ọ láti yára—àwọn ìgbésẹ̀ kékeré ṣe pàtàkì.",
+        "pidgin": "This pressure to become tech bro no be small. But your own pace dey valid—small progress still na progress."
+        }
+    },
+    {
+        "topic": "climate_anxiety",
+        "keywords": ["flood", "heat", "no light", "pollution", "Lagos stress"],
+        "responses": {
+        "english": "Nigeria’s climate struggles—floods, heat, no light—add another layer to daily stress. Your frustration is valid. Let’s talk coping strategies.",
+        "yoruba": "Ìṣòro ojú-ọjọ́ ní Nàìjíríà—ìṣán omi, òyún, àìsí iná—ń ṣàfikún ìfẹ̀sẹ̀wọnsẹ̀. Ìbínú rẹ tọ́. Jẹ́ ká sọ̀rọ̀ nípa àwọn ọ̀nà ìfarabalẹ̀.",
+        "pidgin": "Flood, heat, no light—e don be like say Naija environment dey fight us. Your pain valid. Make we find how you fit manage am."
+        }
+    }
+  ]
+  
